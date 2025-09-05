@@ -7,3 +7,13 @@ of different models (support vector machines, logistic regression, and decision 
 
 <img width="1245" height="681" alt="image" src="https://github.com/user-attachments/assets/62ca64a4-ce47-455c-afc7-c623ecde522c" />
 
+Some of the plots which couldn't be added in jupyter nitebook beacuse of the size constraints are shown below.
+
+1.Correlation Heatmap
+<img width="1189" height="923" alt="image" src="https://github.com/user-attachments/assets/aae81b10-2a57-4d49-aab2-a0998d4e5d2b" />
+
+2. Decision Tree Visualization
+<img width="2345" height="1560" alt="image" src="https://github.com/user-attachments/assets/64e751d5-6856-45db-8e63-5c47284b6e42" />
+
+
+
